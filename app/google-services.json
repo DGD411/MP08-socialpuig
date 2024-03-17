@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766133835618",
+    "project_id": "motorbike-puig",
+    "storage_bucket": "motorbike-puig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766133835618:android:7bd45c7f478eea0f423e3b",
+        "android_client_info": {
+          "package_name": "com.example.motorbike_puig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766133835618-pd0ehkajih7f5ojsg432jdhaimnm9j5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motorbike_puig",
+            "certificate_hash": "191941284ba36b884c9f67c78b34797cb0dfdbfe"
+          }
+        },
+        {
+          "client_id": "766133835618-9roec2frjlne807b9c0qd2lkg656sm3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBld9kGKM9uubkHl6A6Bi9T52PP2JIduug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766133835618-9roec2frjlne807b9c0qd2lkg656sm3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
